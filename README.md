@@ -5,5 +5,7 @@ Rusty Bargain es un servicio de venta de coches de segunda mano que está desarr
 A Rusty Bargain le interesa:
 
 la calidad de la predicción
+
 la velocidad de la predicción
+
 el tiempo requerido para el entrenamiento
